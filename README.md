@@ -1,5 +1,5 @@
 # black_russia.py
-Mobile-API for [blackrussia](https://blackrussia.online) a popular multiplayer mobile game which is based on GTA San Andreas
+Mobile-API for [BlackRussia](https://blackrussia.online) an popular multiplayer mobile game about russia which is based on GTA San Andreas
 
 ## Example
 ```python
