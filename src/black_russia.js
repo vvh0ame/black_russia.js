@@ -1,5 +1,5 @@
 class BlackRussia {
-	constructor(countryCode = "ru") {
+	constructor() {
 		this.api = "http://api.blackrussia.online"
 		this.headers = {
 			"user-agent": "Dalvik/2.1.0 (Linux; U; Android 9; RMX3551 Build/PQ3A.190705.003)"
