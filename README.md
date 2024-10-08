@@ -7,7 +7,7 @@ async function main() {
 	const { BlackRussia } = require("./black_russia.js")
 	const blackRussia = new BlackRussia()
 	const donateItems = await blackRussia.getDonateItems()
-  console.log(donateItems)
+  	console.log(donateItems)
 }
 
 main()
